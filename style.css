@@ -38,6 +38,24 @@ code{
     color:#CE234C;
     background-color:lightgray;
 }
-p{
-    
+#font-practice{
+    color: #006622;
+    font-style:italic;
+    font-size:16px;
+    font-family:arial;
+}
+a{
+    color:green;
+}
+a:visited{
+    color:black;
+}
+a:hover{
+    color:red;
+}
+a:active{
+    color:blue;
+}
+The Horizontal Rules{
+    background-color:gray;
 }
